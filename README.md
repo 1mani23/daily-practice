@@ -11,3 +11,7 @@ Day 1:learning how to make github contributions.
 
 ## Day 4
 -learned javascript if conditions.
+
+
+## Day 5
+-learned javascript loops.
