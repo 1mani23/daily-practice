@@ -24,5 +24,8 @@ Day 1:learning how to make github contributions.
 -learned javascript arrays and array methods.
 
 
-## Day 6
+## Day 7
 -learned javascript objects and object iteration.
+
+## Day 8
+javascript revision (variables,functions,arrays,objects,loops).
