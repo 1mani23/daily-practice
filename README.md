@@ -29,3 +29,6 @@ Day 1:learning how to make github contributions.
 
 ## Day 8
 javascript revision (variables,functions,arrays,objects,loops).
+
+## Day 9
+- Learned JavaScript DOM basics (getElementById, innerText)
