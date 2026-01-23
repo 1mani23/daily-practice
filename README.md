@@ -36,3 +36,7 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 10
 - Built a JavaScript Counter mini project using DOM and events
 
+## Day 11
+- Built a simple form with JavaScript validation
+
+

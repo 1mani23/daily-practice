@@ -20,4 +20,12 @@ function reset()
     counter=0;
     document.getElementById("count").innerText=counter;
 }
+function max()
+{
+    if(counter > 10)
+    {
+        counter=100;
+    }
+    document.getElementById("count").innerText=counter;
+}
 
