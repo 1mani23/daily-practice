@@ -39,4 +39,8 @@ javascript revision (variables,functions,arrays,objects,loops).
 ## Day 11
 - Built a simple form with JavaScript validation
 
+## Day 12
+- Practiced JavaScript array methods (map, filter, reduce)
+
+
 
